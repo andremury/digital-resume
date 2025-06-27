@@ -9,7 +9,7 @@ let routes = [
         component: Home,
         meta: {
             protected: true,
-            title: 'Início'
+            title: 'CV'
         }
     },
     {
